@@ -1,5 +1,4 @@
-Bootstrap Sass Grid Only (v3.2.0)
+Bootstrap Sass Grid Only (v3.3.7)
 ==============
-18th December - Included "push/pull" column classes.
 
-18th July - This was broken, now it should be fixed.
+- Updated to 3.3.7
