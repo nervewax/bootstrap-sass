@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-sass-grid-only",
+  "version": "2.0.0",
+  "description": "Bootstrap Sass Grid Only (v3.3.7)",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nervewax/bootstrap-sass"
+  },
+  "author": "nervewax",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-livereload": "^3.8.1"
+  }
+}
